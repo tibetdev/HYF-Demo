@@ -32,3 +32,9 @@ git merge [branch name]
 git push [repo name]
 
 ```
+
+### Good luck 🍀
+
+```
+
+```
